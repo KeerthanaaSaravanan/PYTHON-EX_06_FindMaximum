@@ -56,13 +56,18 @@ def max_marks(list1):
 
 ```
 ## Sample Input and Output
-![image](https://github.com/KeerthanaaSaravanan/PYTHON-EX_06_FindMaximum/assets/145742596/54c9d584-c0a4-4eb3-b718-f3065ae749d2)
-![image](https://github.com/KeerthanaaSaravanan/PYTHON-EX_06_FindMaximum/assets/145742596/97a8c5a1-e00c-4f19-9559-7086b94cfd20)
+
+![Screenshot 2023-12-21 185148](https://github.com/KeerthanaaSaravanan/PYTHON-EX_06_FindMaximum/assets/145742596/92c0a1b7-aac6-46b8-a347-6601a415ce35)
+![Screenshot 2023-12-21 185154](https://github.com/KeerthanaaSaravanan/PYTHON-EX_06_FindMaximum/assets/145742596/dc985b1d-44dc-4d3c-b085-8ae793ac655d)
+![Screenshot 2023-12-21 185200](https://github.com/KeerthanaaSaravanan/PYTHON-EX_06_FindMaximum/assets/145742596/6ed817f0-8e15-481c-9d07-1ffeeccd5b09)
 
 
 ## Output:
+
 ![Screenshot 2023-12-17 174104](https://github.com/KeerthanaaSaravanan/PYTHON-EX_06_FindMaximum/assets/145742596/37f2e6da-d5f6-43c3-b4a3-d6355b7da747)
+
 ![Screenshot 2023-12-17 174114](https://github.com/KeerthanaaSaravanan/PYTHON-EX_06_FindMaximum/assets/145742596/8b4d1e81-4470-4f8c-b057-b8be91954c56)
+
 ![Screenshot 2023-12-17 174121](https://github.com/KeerthanaaSaravanan/PYTHON-EX_06_FindMaximum/assets/145742596/cfa310cf-0dc3-47ee-894a-812dd18b39ca)
 
 
